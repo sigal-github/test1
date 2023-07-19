@@ -1,0 +1,19 @@
+{
+    "name": "sigal/test",
+    "description": "ceshi",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sigal\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sigal",
+            "email": "sigalx@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
